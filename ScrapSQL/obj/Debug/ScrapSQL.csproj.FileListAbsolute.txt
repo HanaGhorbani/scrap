@@ -1,0 +1,10 @@
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\bin\Debug\ScrapSQL.exe.config
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\bin\Debug\ScrapSQL.exe
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\bin\Debug\ScrapSQL.pdb
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\obj\Debug\ScrapSQL.csproj.AssemblyReference.cache
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\obj\Debug\ScrapSQL.csproj.CoreCompileInputs.cache
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\obj\Debug\ScrapSQL.exe
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\obj\Debug\ScrapSQL.pdb
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ihc\source\repos\ScrapSQL\ScrapSQL\obj\Debug\ScrapSQL.csproj.CopyComplete
